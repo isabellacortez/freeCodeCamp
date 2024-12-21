@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us by filling out this survey!</p>
+    <form id="survey-form">
+      <fieldset>
+        <legend>Basic info</legend>
+        <label for="name" id="name-label">Enter your name: <input required 
+        id="name" 
+        placeholder="Jane Doe"
+        type="text" 
+        name="name"/></label>
+        <br>
+        <label for="email" id="email-label">Enter your email: <input required 
+        id="email" 
+      placeholder="janedoe@gmail.com"
+        type="email" 
+        name="email" /></label>
+        <br>
+        <label for="number" id="number-label">Enter your age: <input 
+        id="number" 
+        placeholder="24"
+        name="number" 
+        type="number"
+        min="13"
+        max="99" />
+        </fieldset>
+        <fieldset>
+        <legend>Pets in the home</legend>
+        <label>Do you have any pets?
+        <select id="dropdown">
+          <option value="">(select one)</option>
+          <option value="1">Yes</option>
+          <option value="2">No</option>
+        </select>
+        </label>
+        <br>
+        <label><input 
+        type="radio" 
+        value="cat" 
+        name="animal"
+        checked/>Cat</label>
+        <br>
+        <label><input 
+        type="radio" 
+        value="dog" 
+        name="animal"
+        class="inline"/>Dog</label>
+        <br>
+        <label><input 
+        type="radio" 
+        value="other" 
+        name="animal"
+        class="inline"/>Other</label>
+      </fieldset>
+      <fieldset>
+        <legend>Rooms in the home</legend>
+        <input 
+        type="checkbox" 
+        value="0">Living room</input>
+        <input 
+        type="checkbox" 
+        value="1">Kitchen</input>
+        <input 
+        type="checkbox" 
+        value="2">Dining room</input>
+        <input 
+        type="checkbox"
+        value="3">Bathroom</input>
+      </fieldset>
+      <fieldset>
+        <legend>Additional comments: </legend>
+        <textarea id="comments" name="comments"></textarea>
+      </fieldset>
+      <button id="submit">Submit</button>
+    </form>
+  </body>
+</html>
