@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  body {
+    font-family: verdana;
+  }
+  header {
+    font-weight: bold;
+    font-size: 19px;
+  }
+}
