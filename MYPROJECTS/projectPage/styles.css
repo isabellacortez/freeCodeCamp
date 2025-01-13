@@ -1,0 +1,46 @@
+* {
+  font-family: Verdana;
+}
+main {
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  left: 0;
+  width: 98%;
+  height: 70px;
+  z-index: 1000;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f2f2f2;
+}
+
+#nav-bar .nav-link {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+#nav-bar .nav-link:hover {
+  color: red;
+}
+
+iframe {
+  margin: 0 auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (max-width: 768px) {
+  header {
+    height: 50px;
+  }
+  #main-content {
+    padding-top: 50px;
+  }
+}
