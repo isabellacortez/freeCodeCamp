@@ -1,0 +1,15 @@
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/bin/Debug/net10.0/TestProject
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/bin/Debug/net10.0/TestProject.deps.json
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/bin/Debug/net10.0/TestProject.runtimeconfig.json
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/bin/Debug/net10.0/TestProject.dll
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/bin/Debug/net10.0/TestProject.pdb
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.sourcelink.json
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.dll
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/refint/TestProject.dll
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.pdb
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/TestProject.genruntimeconfig.cache
+/Users/bellacortez/code/src/freeCodeCamp/C#Certification/TestProject/obj/Debug/net10.0/ref/TestProject.dll
